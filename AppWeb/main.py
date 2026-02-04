@@ -1,3 +1,5 @@
+
+
 import streamlit as st
 
 st.set_page_config(page_title="Dashboard", layout="wide")
@@ -92,5 +94,6 @@ with colB:
     st.metric("Ventas", "S/. 10,000.0", "1%")
 with colC:
     st.metric("Clientes nuevos", "87", "+12%")
+
 
 st.markdown("</div>", unsafe_allow_html=True)
