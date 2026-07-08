@@ -1,21 +1,6 @@
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div align="center">
-  
+<div align="center">  
 #### App Profesional PDF Tools con Python + Código Fuente Completo 🔐🧩
-
 
 ### [Youtube](https://youtube.com/magnoefren?sub_confirmation=1)
 
